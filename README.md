@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AustinL776
 - 👀 I’m interested in trying to enter the IT field within a year 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python & JavaScript 
 - 💞️ I’m looking to collaborate on any open source projects / learning anything that would help me become proficient in python 
 - 📫 How to reach me through GitHub at this time
 
